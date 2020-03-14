@@ -1,6 +1,7 @@
 # 先備知識
 
 1. 輸入輸出
+
 ``` python
 
 print("Hello World")
@@ -25,7 +26,9 @@ print(string + "7")
 boolean = True
 
 ```
+
 3. 流程控制
+
 ```python
 
 statement_1 = True
@@ -42,6 +45,7 @@ else:
 ```
 
 4. 迴圈
+
 ```python
 
 for i in range(1,50,7):
@@ -57,6 +61,7 @@ while statement :
 ```
 
 5. 函式
+
 ```python
 
 def square(n):
@@ -75,6 +80,7 @@ print(fib(20))
 ```
 
 6. 陣列
+
 ```python
 
 array = [1,2,3,4,5]
@@ -96,6 +102,7 @@ array.sort()
 ```
 
 7. 捕捉錯誤
+
 ```python
 
 array=[1,4,3,6,7]
@@ -108,7 +115,9 @@ except(IndexError):
     print("Array out of range")
 
 ```
+
 8. 引用
+
 ```python
 import tkinter
 
