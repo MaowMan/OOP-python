@@ -1,6 +1,6 @@
 # 先備知識
 
-1. 輸入輸出
+## 輸入輸出
 
 ``` python
 
@@ -11,7 +11,7 @@ print(n * n)
 
 ```
 
-2. 變數
+## 變數
 
 ``` python
 
@@ -27,7 +27,7 @@ boolean = True
 
 ```
 
-3. 流程控制
+## 流程控制
 
 ```python
 
@@ -44,7 +44,7 @@ else:
 
 ```
 
-4. 迴圈
+## 迴圈
 
 ```python
 
@@ -60,7 +60,7 @@ while statement :
 
 ```
 
-5. 函式
+## 函式
 
 ```python
 
@@ -79,7 +79,7 @@ print(fib(20))
 
 ```
 
-6. 陣列
+## 陣列
 
 ```python
 
@@ -101,7 +101,7 @@ array.sort()
 
 ```
 
-7. 捕捉錯誤
+## 捕捉錯誤
 
 ```python
 
@@ -116,7 +116,7 @@ except(IndexError):
 
 ```
 
-8. 引用
+## 引用
 
 ```python
 import tkinter
